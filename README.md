@@ -12,4 +12,5 @@
 |                                                       |
 +-------------------------------------------------------+
 ```
-1. [Задание 1](https://illarionov.site/sql/)
+1. [Задание 1](https://illarionov.site/learnSQL/Lesson1/)
+2. [Задание 2](https://illarionov.site/learnSQL/Lesson2/)
